@@ -1,0 +1,12 @@
+{
+  "name": "MySearch",
+  "platform": "HTML",
+  "version": "2.11",
+  "wabVersion": "2.11",
+  "properties": {
+     "hasLocale"     : false,
+	 "hasStyle"      : false,
+	 "hasConfig"     : false,
+	 "hasSettingPage": false
+  }
+}
